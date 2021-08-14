@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\bin\Debug\Pemula C part 1.exe.config
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\bin\Debug\Pemula C part 1.exe
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\bin\Debug\Pemula C part 1.pdb
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\obj\Debug\Pemula C part 1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\obj\Debug\Pemula C part 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\obj\Debug\Pemula C part 1.exe
+C:\Users\Acer\source\repos\Pemula C part 1\Pemula C part 1\obj\Debug\Pemula C part 1.pdb
